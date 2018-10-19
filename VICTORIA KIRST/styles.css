@@ -1,0 +1,24 @@
+link {display: none;}
+head h1 {font-size: 130px color purple}
+head h1 {color:rgb(255, 255, 255);
+font-size: 70px}
+h2 {color: aqua font-size: 70px} 
+h3 {color: aqua font-size: 70px} 
+h4 {color: aqua font-size: 70px} 
+div {color: aqua}
+.p span {color:red: text-decoration: underline}
+img {border:2px dashed yellow}
+{background: color blue}
+
+font-family: 'Permanent Marker', cursive;
+header >
+a:hover{color: yellow;}
+button "class rojo" {background: red; color: white;}
+button {background: red; color: yellowgreen; cursor: pointer}
+
+button "class rosa" {background: pink; color: white;}
+button {background:pink; color: yellowgreen; cursor: progress}
+ 
+
+
+

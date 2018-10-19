@@ -1,0 +1,36 @@
+
+    section {
+        width: 500px;height: 500px;
+        background: wheat;
+        text-align: center;}
+
+
+ section> article {
+        width: 200px; height: 200px;
+        background: red;
+        display: inline-block; 
+        margin: 30px 10px 50px 12px
+        border-radius:> 100px;
+    }
+
+    section> article {
+        width: 200px; height: 200px;
+        background: red;
+        display: inline-block;
+    }
+    section article.blue {background: blue}
+    section article.grenn {background: greenyellow}
+
+    rarito { 
+        width: 300px;x height:100px;
+        background: yellow;
+        display: block;
+        color: red
+        position: fixed;
+        top;
+        left: 100px
+        border-bottom:2px solid black
+   }
+
+
+    }
