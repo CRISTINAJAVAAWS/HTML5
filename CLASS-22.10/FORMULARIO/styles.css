@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>Create account</title>
+   <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+   <div id="myform">
+       <h1>Create an account</h1>
+       <form method="POST" action="./gracias.html">
+           <div><input type="text" placeholder="Name" name="name" id="name" required></div>
+
+           <div><input type="tel" placeholder="Phone number" name="phone" id="phone" required></div>
+
+           <div><input type="email" placeholder="Email" name="email" id="email" required></div>
+
+           <div><input type="password" placeholder="Password" name="password" id="password" required></div>
+
+           <div class="izq"><input type="checkbox" id="accept" name="accept"><label for="accept">i agree <a href="#">enlace</a> xxx</label required></div>
+
+           <div class="der"><button>Create account</button></div>
+       </form>
+   </div>
+</body>
+
+</html>
